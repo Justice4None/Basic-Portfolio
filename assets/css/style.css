@@ -1,0 +1,21 @@
+.header1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 10px;
+    float: left;
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    font-size: 11.5px;
+    box-sizing: border-box;
+    border-bottom-style: solid;
+    border-color: #cccccc;
+}
+.links {
+    box-sizing: border-box;
+    border-bottom-style: solid;
+    border-color: #cccccc;
+    float: right;
+}
